@@ -3,3 +3,5 @@
 A pretty good place to start:
 https://www.youtube.com/watch?v=szgVUfyX8JM
 
+Vedder's open source Brushless Controller
+https://github.com/vedderb/bldc
