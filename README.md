@@ -1,4 +1,4 @@
-##### OreSat Attitude Control System Capstone
+# OreSat Attitude Control System Capstone
 
 Welcome to the OreSat ACS Capstone repository and wiki!
 
