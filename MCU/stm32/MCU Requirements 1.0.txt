@@ -1,0 +1,8 @@
+﻿Version 1.0
+MCU Requirements:
+1. 32 bit MCU
+2. Capable of CAN communication
+3. Control a single (three phase??) BLDC motor
+   1. Add information on what kind of MCU pins are needed
+1. Control a single magnetorquer
+   1. Add information on what kind of MCU pins are needed
